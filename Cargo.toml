@@ -1,0 +1,9 @@
+[package]
+name = "deletemojo"
+version = "0.1.0"
+authors = ["commieprincess <34149625+commieprincess@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2"
+regex = "1.1"
